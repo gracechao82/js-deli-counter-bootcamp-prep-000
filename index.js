@@ -28,8 +28,8 @@ if (katzDeliLine.length === 0) {
 }
 else {
   return "The line is currently: " +
-    for (let i = 0; i < katzDeliLine.length; i++) {
-      i-0 + ". " + katzDeliLine[i]
+   for (let i = 0; i < katzDeliLine.length; i++) {
+    
     }
 }
 
