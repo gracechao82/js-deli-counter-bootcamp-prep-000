@@ -25,20 +25,19 @@ function currentLine(katzDeliLine){
 
 numberedLine = []
 
-for (let i = 0; )
+for (let i = 0; i < katzDeliLine.length; i++){
+  numberedLine[i] = `${i}.${katzDeliLine[i]}`
+}
 
 
 if (katzDeliLine.length === 0) {
   return "The line is currently empty."
 }
 else {
-  return "The line is currently: " +
-   for (let i = 0; i < katzDeliLine.length; i++) {
-    
+  return "The line is currently: " + numberedLine
+   
     }
-}
 
-  
 }
 
 
