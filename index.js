@@ -28,7 +28,7 @@ if (katzDeliLine.length === 0) {
 }
 else {
   return "The line is currently: " +
-    for (i = 0, i < katzDeliLine.length , i++){
+    for (let i = 0; i < katzDeliLine.length; i++) {
       i-0 + ". " + katzDeliLine[i]
     }
 }
