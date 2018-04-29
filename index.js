@@ -1,5 +1,4 @@
 
-var masterKatzDeliLine = [];
 
 function takeANumber(katzDeliLine, newPerson){
   
@@ -9,7 +8,12 @@ function takeANumber(katzDeliLine, newPerson){
 }
 
 
+function nowServing(katzDeliLine){
 
+
+  
+  
+}
 
 
 
