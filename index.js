@@ -23,7 +23,9 @@ return "Currently serving " + katzDeliLine.shift() + "."
 
 function currentLine(katzDeliLine){
 
+numberedLine = []
 
+for (let i = 0; )
 
 
 if (katzDeliLine.length === 0) {
