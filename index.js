@@ -15,7 +15,7 @@ if (katzDeliLine.length === 0) {
 }
 
 else {
-return katzDeliLine.shift()
+return "Currently serving " + katzDeliLine.shift()
 }
   
   
