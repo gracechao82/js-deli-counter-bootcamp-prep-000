@@ -26,7 +26,7 @@ function currentLine(katzDeliLine){
 var numberedLine = []
 
 for (let i = 0; i < katzDeliLine.length; i++){
-  numberedLine[i] = `${i+1}.${katzDeliLine[i]}`
+  numberedLine[i] = `${i+1}. ${katzDeliLine[i]}`
 }
 
 
